@@ -20,3 +20,7 @@ Here are some ideas to get you started:
 
 <p align="center"><img src="https://profile-counter.glitch.me/{ayushyadav7}/count.svg" alt="ayushyadav7 :: Visitor's Count" /></p>
 
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayush7&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
