@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Professional Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayushyadav7/) 
+
+<p align="center"><img src="https://profile-counter.glitch.me/{ayushyadav7}/count.svg" alt="ayushyadav7 :: Visitor's Count" /></p>
+
