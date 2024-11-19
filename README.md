@@ -13,6 +13,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayush7&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
+
 -->
 
 - 🔭 I’m currently working on GenAI projects - LLMs and Diffusion models
@@ -41,6 +45,6 @@ Here are some ideas to get you started:
 ---
 
 <p align="center">
-  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=ayush7&show_icons=true&theme=vision-friendly-dark">
-  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayush7&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
+  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=ayush7&show_icons=true&theme=vision-friendly-dark
+
 </p>
