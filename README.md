@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 # Professional Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayushyadav7/) 
-
+[![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://x.com/seeker_freaker_)
 <p align="center"><img src="https://profile-counter.glitch.me/{ayushyadav7}/count.svg" alt="ayushyadav7 :: Visitor's Count" /></p>
 
 
